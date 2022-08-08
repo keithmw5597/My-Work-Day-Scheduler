@@ -13,7 +13,7 @@ This is a work day planner by hour.  you can plan your day and the app will warn
 
 ## Screenshots
 
-![Screenshot](./assets/images/work-day-scheduler-screenshot.jpg)
+![Screenshot](./assets/images/screenshot.my-workday-scheduler.jpg)
 
 
 ## Technology
@@ -22,6 +22,7 @@ This is a work day planner by hour.  you can plan your day and the app will warn
 * CSS
 * JavaScript
 * Jquery
+* bootsrap
 
 ## Contributors
 
